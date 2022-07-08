@@ -1,0 +1,14 @@
+body {
+    background-image: linear-gradient(#FFE7BF, #FFC4C4);
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
+
+h1, h3 {
+    color: #ff1d58;
+}
